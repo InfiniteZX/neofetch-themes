@@ -1,1 +1,1 @@
-  This is a fork of onrefetch theme by https://github.com/arionrefat with fedora small logo and few changes on russian language :D
+![Это форк темы onrefetch от https://github.com/arionrefat с заменой логотипа на fedora_small, а также парочкой фиксов и на русском языке!](https://imgur.com/a/cPMmRu5)
